@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact-rsses on East Willow Reserve</title>
+    <link>http://willowreserve.org/contact/index.xml</link>
+    <description>Recent content in Contact-rsses on East Willow Reserve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Dec 2008 16:45:35 -0600</lastBuildDate>
+    <atom:link href="http://willowreserve.org/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact</title>
+      <link>http://willowreserve.org/contact/</link>
+      <pubDate>Tue, 16 Dec 2008 16:45:35 -0600</pubDate>
+      
+      <guid>http://willowreserve.org/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
